@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **C++, React, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://jjuliamaxxx.myportfolio.com](https://jjuliamaxxx.myportfolio.com)
+- 👨‍💻 My projects are available at [https://jjuliamaxxx.myportfolio.com](https://jjuliamaxxx.myportfolio.com)
 
 - 📫 How to reach me **jjuliamaxxx@gmail.com**
 

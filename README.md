@@ -49,22 +49,20 @@
 </p>
 <hr>
 <div align=center> 
-  <picture width=350>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=juliamaxx&show_icons=true&locale=en&border_radius=10&theme=react&rank_icon=github"/>
-    <img alt="AnalyserOrange repository" src="https://github-readme-stats.vercel.app/api?username=juliamaxx&border_radius=10&show_icons=true&locale=en&rank_icon=github"/>
+    <img width=390 alt="AnalyserOrange repository" src="https://github-readme-stats.vercel.app/api?username=juliamaxx&border_radius=10&show_icons=true&locale=en&rank_icon=github"/>
   </picture>
   
-  <picture width=350>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=juliamaxx&border_radius=10&theme=react"/>
-    <img alt="AnalyserOrange repository" src="https://github-readme-streak-stats.herokuapp.com/?user=juliamaxx&border_radius=10&theme=default"/>
+    <img width=415 alt="AnalyserOrange repository" src="https://github-readme-streak-stats.herokuapp.com/?user=juliamaxx&border_radius=10&theme=default"/>
   </picture>
   
   <br>
   
   <picture align=center>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=juliamaxx&show_icons=true&locale=en&border_radius=10&layout=compact&theme=react"/>
-    <img width=350 alt="AnalyserOrange repository" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliamaxx&show_icons=true&locale=en&border_radius=10&layout=compact"/>
+    <img width=300 alt="AnalyserOrange repository" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliamaxx&show_icons=true&locale=en&border_radius=10&layout=compact"/>
   </picture>
 </div>
-
-![Profile views](https://komarev.com/ghpvc/?username=juliamaxxx&label=Profile%20views&color=60598F&style=flat)

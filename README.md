@@ -49,12 +49,12 @@
 </p>
 <hr>
 <div align=center> 
-  <picture width=390>
+  <picture width=350>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=juliamaxx&show_icons=true&locale=en&border_radius=10&theme=react&rank_icon=github"/>
     <img alt="AnalyserOrange repository" src="https://github-readme-stats.vercel.app/api?username=juliamaxx&border_radius=10&show_icons=true&locale=en&rank_icon=github"/>
   </picture>
   
-  <picture width=390>
+  <picture width=350>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=juliamaxx&border_radius=10&theme=react"/>
     <img alt="AnalyserOrange repository" src="https://github-readme-streak-stats.herokuapp.com/?user=juliamaxx&border_radius=10&theme=default"/>
   </picture>

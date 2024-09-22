@@ -39,13 +39,11 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/></a> 
-  <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/></a> 
 </p>
 <hr>
 <div align=center> 

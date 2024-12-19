@@ -3,7 +3,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&size=27&color=000000&vCenter=true&multiline=true&width=1000&height=73&lines=Hii!+I'm+Yuliia+:)">
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&size=27&color=000000&vCenter=true&multiline=true&width=1000&height=73&lines=Hii!+I'm+Yuliia+:);">
 </picture>
-
 - 🌱 I’m currently learning: **C++, React, Node.js**
 
 - ✨ See more of my work here: [https://jjuliamaxxx.myportfolio.com](https://jjuliamaxxx.myportfolio.com)
@@ -55,14 +54,6 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=juliamaxx&show_icons=true&locale=en&border_radius=10&theme=react&rank_icon=github"/>
     <img width=390 alt="AnalyserOrange repository" src="https://github-readme-stats.vercel.app/api?username=juliamaxx&border_radius=10&show_icons=true&locale=en&rank_icon=github"/>
   </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=juliamaxx&border_radius=10&theme=react"/>
-    <img width=415 alt="AnalyserOrange repository" src="https://github-readme-streak-stats.herokuapp.com/?user=juliamaxx&border_radius=10&theme=default"/>
-  </picture>
-  
-  <br>
-  
   <picture align=center>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=juliamaxx&show_icons=true&locale=en&border_radius=10&layout=compact&theme=react"/>
     <img width=300 alt="AnalyserOrange repository" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliamaxx&show_icons=true&locale=en&border_radius=10&layout=compact"/>

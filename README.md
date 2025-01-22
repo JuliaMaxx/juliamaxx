@@ -3,6 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&size=27&color=000000&vCenter=true&multiline=true&width=1000&height=73&lines=Hii!+I'm+Yuliia+:)">
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&size=27&color=000000&vCenter=true&multiline=true&width=1000&height=73&lines=Hii!+I'm+Yuliia+:);">
 </picture>
+
 - 🌱 I’m currently learning: **C++, React, Node.js**
 
 - ✨ See more of my work here: [https://jjuliamaxxx.myportfolio.com](https://jjuliamaxxx.myportfolio.com)

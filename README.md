@@ -4,7 +4,7 @@
   <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&size=27&color=000000&vCenter=true&multiline=true&width=1000&height=73&lines=Hii!+I'm+Yuliia+:);">
 </picture>
 
-- 🌱 I’m currently learning: **C++, React, Node.js**
+- 🌱 I’m currently learning: **React, Node.js**
 
 - ✨ See more of my work here: [https://jjuliamaxxx.myportfolio.com](https://jjuliamaxxx.myportfolio.com)
 
@@ -44,10 +44,12 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/></a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/></a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/></a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=spring" alt="apring" width="40" height="40"/></a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/></a> 
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/></a> 
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/></a> 
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=jest" alt="jest" width="40" height="40"/></a> 
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=latex" alt="latex" width="40" height="40"/></a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a> 
 </p>
 <hr>
 <div align=center> 
